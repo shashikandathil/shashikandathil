@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Shashi 👋
 
-<!--
-**shashikandathil/shashikandathil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Master's Student in Data Science & Artificial Intelligence  
+📍 Portland, Oregon  
+🔧 Automotive Engineering background with 9 years of industry experience  
+💻 Passionate about AI, Machine Learning, Data Analytics, and Software Development  
 
-Here are some ideas to get you started:
+## Technical Skills
+- Python
+- SQL
+- Tableau
+- Machine Learning
+- Data Analysis
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Focus
+- Building AI and Data Science projects
+- Learning software development
+- Creating a strong technical portfolio
+- Preparing for AI/Data Science internships
+
+## Upcoming Projects
+- Uber Eats Earnings Dashboard
+- Vehicle Diagnostics Analytics
+- Machine Learning Projects
+- AI Traffic Congestion Management System
+
+## Connect With Me
+- GitHub: @shashikandathil
